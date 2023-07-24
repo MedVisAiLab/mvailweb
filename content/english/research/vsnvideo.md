@@ -1,10 +1,10 @@
 ---
-title: "Computer Vision for Medical Tasks"
+title: "Computer Vision and Video Analytics for Medical Tasks"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Software", "Video Analysis", "Scene Inference"]
+categories: ["Software", "Robotics", "Behavior", "Video Analytics", "Scene Inference"]
 author: ""
 tags: ["software", "video"]
 draft: false

@@ -1,12 +1,12 @@
 ---
-title: "Multimodal Data Analysis and Interpretation"
+title: "Population Health"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Multimodal", "Omics", "Imaging", "Social"]
+categories: ["Population", "Omics", "Social"]
 author: ""
-tags: ["Multimodal", "Omics", "Imaging", "Social"]
+tags: ["Multimodal", "Omics", "Social"]
 draft: false
 ---
 
