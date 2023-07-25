@@ -25,7 +25,7 @@ weight = 4
 
 [[main]]
 name = "Positions"
-url = "positions/"
+url = "pos/"
 weight = 5
 
 
@@ -49,12 +49,12 @@ url = "about/"
 weight = 1
 
 
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
+#[[footer]]
+#name = ""
+#url = ""
+#weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
+#[[footer]]
+#name = "Policy"
+#url = "policy/"
+#weight = 3

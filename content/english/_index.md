@@ -34,7 +34,7 @@ features:
       - "Design and Implement AI Technologies"
       - "Drug Discovery"
       - "By funding MVAIT, you contribute to the advancement of AI in healthcare and make an impact in the society. Do contact MVAIT to discuss potential collaborations or funding."
-      - "MVAIT welcomes collaborations with industry partners, academic institutions, and hospitals who share the same vision with MVAIT for transforming the healthcare industry. Please contact MVAIT if you are interested in partnering with MVAIT to advance healthcare technologies for the society"
+      - "MVAIT welcomes collaborations with industry partners, academic institutions, and public agencies who wants to work with MVAIT to transform the healthcare industry. Please contact MVAIT if you are interested in partnering with MVAIT to advance healthcare technologies for the society"
     button:
       enable: true
       label: "Get Started Now"
