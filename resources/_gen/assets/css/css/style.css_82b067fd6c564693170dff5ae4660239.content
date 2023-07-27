@@ -13798,9 +13798,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .mt-6 {
   margin-top: 1.5rem;
 }
-.mt-8 {
-  margin-top: 2rem;
-}
 .block {
   display: block;
 }
@@ -15003,13 +15000,6 @@ input#nav-toggle:checked ~ #nav-menu {
   :is(.dark .search-wrapper .search-result-item:focus),:is(.dark  .search-wrapper .search-result-item.search-item-selected),:is(.dark  .search-wrapper .search-result-item:hover) {
   background-color: rgb(255 255 255 / 0.1);
 }
-  @media (min-width: 540px) {
-
-  .sm\:col-10 {
-    flex: 0 0 auto;
-    width: 83.33333333333334%;
-  }
-}
   @media (min-width: 768px) {
 
   .md\:col-5 {
@@ -15025,11 +15015,6 @@ input#nav-toggle:checked ~ #nav-menu {
   .md\:col-7 {
     flex: 0 0 auto;
     width: 58.333333333333336%;
-  }
-
-  .md\:col-8 {
-    flex: 0 0 auto;
-    width: 66.66666666666667%;
   }
 
   .md\:col-10 {
