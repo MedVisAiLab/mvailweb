@@ -122,27 +122,23 @@ This is a simple warning.
 
 #### Did you come here for something in particular?
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.
+Did you come here for something in particular
 
 {{< /tab >}}
 
 {{< tab "Tab 2" >}}
 
-#### I wanna talk about the assassination attempt
+#### Shw
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Txt
 
 {{< /tab >}}
 
 {{< tab "Tab 3" >}}
 
-#### We know you’re dealing in stolen ore
+#### Shw1
+Edit1
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
 
 {{< /tab >}}
 {{< /tabs >}}
@@ -151,7 +147,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ### Accordions
 
-{{< accordion "Why should you need to do this?" >}}
+{{< accordion "Can do this" >}}
 
 - Lorem ipsum dolor sit amet consectetur adipisicing elit.
 - Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -159,21 +155,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 {{< /accordion >}}
 
-{{< accordion "How can I adjust Horizontal centering" >}}
 
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "Should you use Negative margin?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
 
 <hr>
 
@@ -195,7 +177,7 @@ print s
 
 ### Blockquote
 
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
+> Did you come here for something in particular
 
 <hr>
 
@@ -203,9 +185,9 @@ print s
 
 | Tables        |      Are      |  Cool |
 | ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
+| col 3 is      | right-aligned | 1600 |
+| col 2 is      |   centered    |   12 |
+| stripes       |   are neat    |    1 |
 
 <hr>
 
@@ -229,10 +211,10 @@ print s
 
 ### Youtube video
 
-{{< youtube ResipmZmpDU >}}
+{{< youtube ResipmZmp >}}
 
 <hr>
 
-### Custom video
+### video
 
-{{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+{{< video src="https://www.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}

@@ -3,6 +3,7 @@ title: Asst. Professor S. Y. Yeo (Team Lead)
 email: email.com
 image: "/images/avatar.png"
 description: this is meta description
+date: 100009 
 social:
   facebook: https://www.facebook.com/
   twitter: https://www.twitter.com/

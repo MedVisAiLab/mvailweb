@@ -15,14 +15,16 @@ description: "This is meta description"
 ---
 {{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="S. Y. Yeo" >}}
 #### S. Y. Yeo
-##### Asst. Professor at NTU
+##### Assitant Professor
+##### NTU
 ##### Director of MVAIT
 
 ---
 
 {{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="Liu Jun" >}}
 #### Liu Jun
-##### Asst. Professor at SUTD
+##### Assistant Professor
+##### SUTD
 ##### Visiting Faculty 
 
 
@@ -36,7 +38,7 @@ Ong K. E.
 
 ---
 
-#### Collaborators
+#### Clinical Consultants
 
 {{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="S. M. Koh" >}}
 #### S. M. Koh

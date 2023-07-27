@@ -3,6 +3,7 @@ title: Asst. Professor Liu Jun (Visiting Faculty)
 email: liujun@sutd.edu.sg
 image: "/images/avatar.png"
 description: this is meta description
+date: 90009
 social:
   facebook: https://www.facebook.com/
   twitter: https://www.twitter.com/

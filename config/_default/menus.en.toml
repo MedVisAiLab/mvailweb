@@ -32,7 +32,7 @@ weight = 5
 
 [[main]]
 name = "Publications"
-url = "publications/"
+url = "pblctns"
 weight = 6
 
 
@@ -49,12 +49,12 @@ url = "about/"
 weight = 1
 
 
-#[[footer]]
-#name = ""
-#url = ""
-#weight = 2
+[[footer]]
+name = "Contact"
+url = "eml"
+weight = 2
 
-#[[footer]]
-#name = "Policy"
-#url = "policy/"
-#weight = 3
+[[footer]]
+name = "Location"
+url = "location/"
+weight = 3

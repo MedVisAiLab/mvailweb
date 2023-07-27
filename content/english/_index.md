@@ -12,7 +12,7 @@ banner:
 
 # Features
 features:
-  - title: "The MVAIT Web is currently under construction"
+  - title: "Construction of web going on at MVAIT"
     image: "/images/service-1.png"
     content: "You can go to the 'Position' tab if you are keen in doing research at MVAIT. Some of the positions available at MVAIT are:"
     bulletpoints:
@@ -28,13 +28,13 @@ features:
 
   - title: "Commercial and Industry Partners"
     image: "/images/service-2.png"
-    content: "MVAIT welcome sponsors and collaborators from commercial and industrial and public organizations."  
+    content: "MVAIT welcome sponsors and collaborators from commercial, industrial and public organizations."  
     bulletpoints:
       - "Companies who wants to sponsor a specific project"
       - "Design and Implement AI Technologies"
       - "Drug Discovery"
       - "By funding MVAIT, you contribute to the advancement of AI in healthcare and make an impact in the society. Do contact MVAIT to discuss potential collaborations or funding."
-      - "MVAIT welcomes collaborations with industry partners, academic institutions, and public agencies who wants to work with MVAIT to transform the healthcare industry. Please contact MVAIT if you are interested in partnering with MVAIT to advance healthcare technologies for the society"
+      - "MVAIT welcomes collaborations with industry partners, academic institutions, and public agencies who wants to work with MVAIT to transform the healthcare industry. Please contact MVAIT if you are interested in partnering with MVAIT to advance healthcare technologies for the society."
     button:
       enable: true
       label: "Get Started Now"
@@ -43,11 +43,10 @@ features:
   - title: "Why MVAIT"
     image: "/images/service-3.png"
     content: "MVAIT aims to transform healthcare in the region and globally, introducing affordable and wholistic medical technologies to the society."
+    
     bulletpoints:
-      - ""
-      - ""
-      - ""
-      - ""
+   
+    
     button:
       enable: false
       label: ""
