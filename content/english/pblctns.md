@@ -14,7 +14,7 @@ ___
 ### Construction of web going on ...
 
 
-- Chaotic World: A Large and Challenging Benchmark for Human Behavior Understanding in Chaotic Events, To be published in IEEE Conference on Computer Vision and Pattern Recognition, 2023
+- Chaotic World: A Large and Challenging Benchmark for Human Behavior Understanding in Chaotic Events, To be published in IEEE International Conference on Computer Vision, 2023
 - X. L. Ng, K. E. Ong, Q. Zheng, Y. Ni, S. Y. Yeo, J. Liu, Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding, IEEE Conference on Computer Vision and Pattern Recognition, 19001-19012, 2022
 
 - R. Loh, S. Y. Yeo, R. S. Tan, F. Gao, A. S. Koh, Explainable machine learning predictions to support personalized cardiology strategies. European Heart Journal - Digital Health, 3(1):49-55, 2021
