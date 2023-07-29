@@ -14,8 +14,8 @@ description: "This is meta description"
 
 ---
 {{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="S. Y. Yeo" >}}
-#### S. Y. Yeo
-##### Assitant Professor
+#### Si Yong Yeo
+##### Assistant Professor
 ##### NTU
 ##### Director of MVAIT
 
@@ -32,7 +32,7 @@ description: "This is meta description"
 
 
 #### Doctoral Students
-Ong K. E. 
+####Ong K. E. 
 
 
 
