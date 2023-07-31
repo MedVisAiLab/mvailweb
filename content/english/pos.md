@@ -6,7 +6,7 @@ description: "Positions for students, postdocs, software engineers and visiting 
 ---
 
 
-##### Thank you for being so interested in MVAIT. MVAIT welcomes excellent and motivated students, postdocs, software engineers and visiting researchers who are interested in developing software and AI technologies for medicine. You should email the [Director of MVAIT](mailto:siyong_yeo@sutd.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) if you are interested to work on medical AI and software techologies in a dynamic research environment.  
+##### Thank you for being so interested in MVAIT. MVAIT welcomes excellent and motivated students, postdocs, software engineers and visiting researchers who are interested in developing software and AI technologies for medicine. You should email the [Director of MVAIT](mailto:siyong_yeo@sutd.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) if you are interested to work on medical AI and software techologies in a dynamic research environment located at Nanyang Technological University (NTU) or Novena in Singapore. Several funding opportunities are available for students and postdocs.   
 
 
 
