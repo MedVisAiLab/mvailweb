@@ -32,7 +32,9 @@ description: "This is meta description"
 
 
 #### Doctoral Students
-####Kian Eng Ong 
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="K. E. Ong" >}}
+#### Kian Eng Ong 
 
 
 
