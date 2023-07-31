@@ -14733,10 +14733,10 @@ input#nav-toggle:checked ~ #nav-menu {
   overflow: hidden;
   padding: 0 1rem; }
 
-.accordion.active > .accordion-icon {
+.accordion.active .accordion-icon {
   transform: rotate(0deg); }
 
-.accordion.active > .accordion-content {
+.accordion.active .accordion-content {
   max-height: 100vh; }
 
 .modal {

@@ -1,5 +1,5 @@
 ---
 title: "Project Funding"
 meta_title: ""
-description: "this is meta description"
+description: "Biomedical, NLP, Computer Vision, AI, Medical Devices,  Projects"
 ---

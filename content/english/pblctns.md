@@ -2,7 +2,7 @@
 title: "Publications"
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Publication on Computer Vision and AI for biomedical tasks and biomedical devices"
 ---
 
 

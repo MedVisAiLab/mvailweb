@@ -32,7 +32,7 @@ description: "This is meta description"
 
 
 #### Doctoral Students
-####Ong K. E. 
+####Kian Eng Ong 
 
 
 
