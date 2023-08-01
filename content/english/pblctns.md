@@ -6,7 +6,7 @@ description: "Publication on Computer Vision and AI for biomedical tasks and bio
 ---
 
 
-## Selected Publications
+# Selected Publications
 
 
 

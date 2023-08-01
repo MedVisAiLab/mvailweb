@@ -16,7 +16,7 @@ description: "Positions for students, postdocs, software engineers and visiting 
 
 
 
-### Positions
+## Positions
 
 {{< accordion "PhD Students">}}
 
