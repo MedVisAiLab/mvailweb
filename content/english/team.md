@@ -53,6 +53,12 @@ description: "This is meta description"
 
 ### Clinical Collaborators
 
+{{< image src="https://www.nsc.com.sg/patients-and-visitors/Find-a-Doctor/PublishingImages/Dermatologist/Tey%20Hong%20Liang.jpg" caption="" alt="alter-text" height="" width="135" position="left" command="fill" option="q100" title="Hong Liang Tey" >}}
+#### Tey Hong Liang
+Head of Research Division and Senior Consultant \
+National Skin Centre, Singapore \
+Clinical Director, Centre for Medtech and Innovations, National Healthcare Group, Singapore
+
 
 {{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="S. M. Koh" >}}
 #### [Angela S. Koh](https://www.nhcs.com.sg/profile/koh-su-mei-angela)
@@ -61,12 +67,9 @@ description: "This is meta description"
 ##### National Heart Centre, Singapore
 
 
-<!--
-{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="Hong Liang Tey" >}}
-#### Tey Hong Liang
-##### Dr., Dermatologist 
-##### National Skin Centre
--->
+
+
+
 
 
 

@@ -1,9 +1,9 @@
 ---
 title: "Analysis of Medical Imaging Data"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Segmentation, Alignment, Classification, Biomarkers, Medical Imaging"
+description: "Segmentation, Alignment, Classification, Biomarkers, Medical Imaging, Microscopy"
 date: 600
-image: "/images/image-placeholder.png"
+image: "/pjts/medimg/medimg1.png"
 categories: ["Segmentation", "Alignment", "Classification"]
 author: ""
 tags: ["medical"]
@@ -16,9 +16,9 @@ draft: false
 
 #### Segmentation
 
-> Segmentation is an important task in medical imaging, and has a wide range of uses such as tissue classification, virtual endoscopy, medical diagnosis, biomedical simulation and modeling. To segment a scan is to the partition the scan into meaningful regions.  In MVAIT, several methods have been developed for the segmentation of imaging data from different modalities, including Magnetic resonance, Ultrosound, Computed tomography, X-ray, Nuclear and Microscopy.
+Segmentation is an important task in medical imaging, and has a wide range of uses such as tissue classification, virtual endoscopy, medical diagnosis, biomedical simulation and modeling. To segment a scan is to the partition the scan into meaningful regions.  In MVAIT, several methods have been developed for the segmentation of imaging data from different modalities, including Magnetic resonance, Ultrosound, Computed tomography, X-ray, Nuclear and Microscopy.
+> {{< gallery dir="pjts/medimg/segment" class="" height="" width="400" webp="true" command="" option="" zoomable="true" >}}
 
-{{< slider dir="pjts/medimg/segment" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 ---
 
 <!--
@@ -27,9 +27,8 @@ draft: false
 
 
 #### Shape and feature detection
-> Shape and feature detection is important for medical tasks such as alignment and  classification. 
-
-{{< slider dir="pjts/medimg/detectfeature1" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+Shape and feature detection is important for medical tasks such as alignment and  classification. 
+> {{< gallery dir="pjts/medimg/detectfeature1" class="" height="400" width="400" webp="true" command="" option="" zoomable="true" >}}
 
 
 #### Alignment
@@ -40,8 +39,9 @@ draft: false
 
 
 <!--
-{{< gallery dir="pjts/medimg/segment" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-{{< gallery dir="pjts/medimg/detectfeature1" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="pjts/medimg/segment" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+
 -->
 
 <hr>
