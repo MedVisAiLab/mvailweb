@@ -10,7 +10,9 @@ tags: ["software", "video"]
 draft: false
 ---
 
-Computer vision has several uses in the medical domain. In MVAIT, researchers develop computer vision technologies and methods which can facilitate medical tasks.
+#### Computer vision and video analytics technologies
+Computer vision has several uses in the medical domain. In MVAIT, researchers develop computer vision methods and video analytics technologies. These AI technologies can then be enhanced and adapted to facilitate complex medical tasks.
+> {{< gallery dir="pjts/vsnvideo/video" class="" height="" width="500" webp="true" command="" option="" zoomable="true" >}}
 
 
 #### Behavior Analysis 
