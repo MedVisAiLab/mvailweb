@@ -35,24 +35,29 @@ ___
 
 - Y. S. Ho, L. Y. Yip, et. al., Lipidomic Profiling of Lung Pleural Effusion Identifies Unique Metabotype for EGFR Mutants in Non-Small Cell Lung Cancer, Scientific Reports, 2016.
 
-- X. Yang, L. Gobeawan, S. Y. Yeo, W. T. Tang, Z. Wu, Y. Su, Automatic Segmentation of Left Ventricular Myocardium by Deep Convolutional and De-convolutional Neural Networks, Computing in Cardiology Conference, 81-84, 2016
-
-- X. Yang, F. Yang, L. Gobeawan, S. Y. Yeo, S. Leng, L. Zhong, Y. Su, A Multi-Modal Classifier for Heart Sound Recordings, Computing in Cardiology Conference, 2016
-
 - S. Y. Yeo, X. Xie, I. Sazonov, P. Nithiarasu, Segmentation of biomedical images using active contour model with robust image feature and shape prior, International Journal for Numerical Methods in Biomedical Engineering, 2014, 30:232–248
 - S. Y. Yeo, X. Xie, I. Sazonov, P. Nithiarasu, Geometrically induced force interaction for three-dimensional deformable models. IEEE Trans Image Process, 20(5):1373-87, 2011
 
-- I. Sazonov, S. Y. Yeo, R. L. T. Bevan, X. Xie, R. van Loon, P. Nithiarasu , Modelling pipeline for subject-specific arterial blood flow—A review, International Journal for Numerical Methods in Biomedical Engineering, 2011, 27:1868–1910
 - S. Y. Yeo, X. Xie, I. Sazonov, P. Nithiarasu, Level set segmentation with robust image gradient energy and statistical shape prior, Proceedings of International Conference on Image Processing,  3397-3400, 2011
 
 - P. H. Saksono, P. Nithiarasu, I. Sazonov and S. Y. Yeo, Computational flow studies in a subject-specific human upper airway using a one-equation turbulence model. Influence of the nasal cavity, International Journal for Numerical Methods in Biomedical Engineering, 2011, 87:96–114
 
+- I. Sazonov, S. Y. Yeo, R. L. T. Bevan, X. Xie, R. van Loon, P. Nithiarasu , Modelling pipeline for subject-specific arterial blood flow—A review, International Journal for Numerical Methods in Biomedical Engineering, 2011, 27:1868–1910
+
+<!--
 - S. Y. Yeo, L. Zhong, Y. Su, R. S. Tan, D. Ghista, A curvature-based approach for left ventricular shape analysis from cardiac magnetic resonance imaging. Medical & Biological Engineering & Computing. 47(3), 313-322, 2009
 
  - L. Zhong, Y. Su, R. S. Tan, D. Ghista, G. Kassab, Left ventricular regional wall curvedness and wall stress in patients with ischemic dilated cardiomyopathy. Am J Physiol Heart Circ Physiol. 2009 Mar;296(3), 573-84, 2009
 
 - S. Y. Yeo, X. Xie, I. Sazonov, P. Nithiarasu, Geometric Potential Force for the Deformable Model, British Machine Vision Conference, 2009
- 
+-->
+
+<!--
+- X. Yang, L. Gobeawan, S. Y. Yeo, W. T. Tang, Z. Wu, Y. Su, Automatic Segmentation of Left Ventricular Myocardium by Deep Convolutional and De-convolutional Neural Networks, Computing in Cardiology Conference, 81-84, 2016
+
+- X. Yang, F. Yang, L. Gobeawan, S. Y. Yeo, S. Leng, L. Zhong, Y. Su, A Multi-Modal Classifier for Heart Sound Recordings, Computing in Cardiology Conference, 2016
+-->
+
 ---
 
 ## Patents

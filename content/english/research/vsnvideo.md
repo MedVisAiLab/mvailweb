@@ -1,9 +1,9 @@
 ---
 title: "Computer Vision and Video Analytics for Medical Tasks"
 meta_title: ""
-description: "this is meta description"
+description: "Computer Vision, Robotics and Video Analytics for Medical Tasks"
 date: 500
-image: "/images/image-placeholder.png"
+image: "/pjts/vsnvideo/vsnvideo1.png"
 categories: ["Software", "Robotics", "Behavior", "Video Analytics", "Scene Inference"]
 author: ""
 tags: ["software", "video"]
@@ -16,7 +16,7 @@ Computer vision has several uses in the medical domain. In MVAIT, researchers de
 
 
 #### Behavior Analysis 
->
+> 
 
 #### Pose Detection
 > 

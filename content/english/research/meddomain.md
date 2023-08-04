@@ -1,7 +1,7 @@
 ---
 title: "Specific Medical Domain"
 meta_title: ""
-description: "this is meta description"
+description: "Data Analysis, AI for Dermatology, Cardiology"
 date: 120
 image: "/images/image-placeholder.png"
 categories: ["Cardiology", "Radiology", "Dermatology", "Matabolism"]
@@ -10,10 +10,13 @@ tags: ["medical"]
 draft: false
 ---
 
+### Construction of web going on ...
+
 MVAIT has strong collaboration with clinicians from different medical domains. 
 
 #### Dermatology
-> Segmentation and disease classification of dermoscopic data. 
+Segmentation and disease classification of dermoscopic data. 
+> {{< gallery dir="pjts/meddomain/" class="" height="" width="400" webp="true" command="" option="" zoomable="true" >}}
 
 #### Cardiology
 

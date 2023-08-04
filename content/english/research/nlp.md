@@ -1,7 +1,7 @@
 ---
 title: "NLP for Healthcare"
 meta_title: ""
-description: "this is meta description"
+description: "Language Models"
 date: 200
 image: "/images/image-placeholder.png"
 categories: ["Language Models"]

@@ -1,6 +1,6 @@
 ---
 title: "Project Funding"
-meta_title: ""
+meta_title: "Projects"
 # meta description
 description: "Biomedical, NLP, Computer Vision, AI, Medical Devices, Projects"
 ---
@@ -9,7 +9,7 @@ description: "Biomedical, NLP, Computer Vision, AI, Medical Devices, Projects"
 
 
 
-## Construction of web going on ...
+### Construction of web going on ...
 <!--
 
 - Invited Co-PI, High Throughput Tissue-based Screening (HTTS): A Quantitative Approach to Increase Efficiency in Cancer Biomarkers Discovery and Translational Research, Joint Council Office Grant, Agency for Science, Technology and Research (1.0 mil), 1431AFG125, Jan 2015 – Dec 2017 

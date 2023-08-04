@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "imgs/logo.png"
 # logo
 logo = "imgs/logo.png"
 logo_darkmode = "imgs/logo.png"
