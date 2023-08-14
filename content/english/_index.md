@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Medical Vision and Artificial Intelligence Technologies"
-  content: "Medical Vision and Artificial Intelligence Technologies (MVAIT) is a research group located at Nanyang Technological University (NTU) and Novena, Singapore, working on research projects in medical data interpretation, computer vision, health informatics and artificial intelligence in medicine.  MVAIT focuses on AI in healthcare and clinical translation. The objective is to advance medical artificial intelligence with a specific focus on medical data interpretation. The mission of MVAIT is to develop AI models that can transform the healthcare industry and complement the expertise of medical doctors."
+  content: "Medical Vision and Artificial Intelligence Technologies (MVAIT) is a research group located at Nanyang Technological University (NTU) and Novena, Singapore, working on research projects in medical data interpretation, computer vision, health informatics and artificial intelligence in medicine.  MVAIT focuses on AI in healthcare and clinical translation. The objective is to advance medical artificial intelligence with a specific focus on medical data interpretation. The mission of MVAIT is to develop AI models that can transform the healthcare industry, complement the expertise of medical doctors and introduce efficient medical technologies to the society."
   
   image: "/imgs/medhxlogo.png"
   button:
@@ -45,7 +45,7 @@ features:
 
   - title: "Why MVAIT"
     image: "/images/service-3.png"
-    content: "MVAIT aims to transform healthcare in the region and globally, introducing affordable and wholistic medical technologies to the society."
+    content: "MVAIT aims to transform healthcare in the region and globally, introducing affordable and holistic medical technologies to the society."
     
     bulletpoints:
    

@@ -52,6 +52,7 @@ Excellent students can consider the following funding opportunities and students
 - Students trained in engineering, natural science and medicine who wants to do a postdoc on AI research at MVAIT should consider the [EWSAIS Postdoc](https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship) . You should email Director of MVAIT if you are interested in doing a EWSAIS project.    
 - Researchers from ASEAN countries who are interested to work at MVAIT can be funded by [SASEA](https://snas.org.sg/aseanfellowship)
 - Swedish researchers can email Director of MVAIT for funding opportunities to work on AI for Health Technology and Medical Devices projects. 
+- Japanese researchers can be funded by [JSPS](https://www.jsps.go.jp/).
 <!--https://kaw.wallenberg.org/en/calls/wallenberg-foundation-postdoctoral-fellowships-nanyang-technological-university-singapore -->
 - Experienced postocs interested in AI in Health Technology and Biomedical Devices can join MVAIT with the [Research fellow funding](https://www.ntu.edu.sg/research/research-careers/research-assistant-professorship-(rap)) scheme.
 - Researchers who are intersted in the use of AI in biological sciences can email Director of MVAIT to discuss possible funding opportunities. 
