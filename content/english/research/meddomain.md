@@ -3,7 +3,7 @@ title: "Specific Medical Domain"
 meta_title: ""
 description: "Data Analysis, AI for Dermatology, Cardiology"
 date: 120
-image: "/images/image-placeholder.png"
+image: "pjts/meddomain/meddomain1.png"
 categories: ["Cardiology", "Radiology", "Dermatology", "Matabolism"]
 author: ""
 tags: ["medical"]
