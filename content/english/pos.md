@@ -6,7 +6,7 @@ description: "Positions for students, postdocs, software engineers and visiting 
 ---
 
 
-##### Thank you for being so interested in MVAIT. MVAIT welcomes excellent and motivated students, postdocs, software engineers and visiting researchers who are interested in developing software and AI technologies for medicine. You should email the [Director of MVAIT](mailto:siyong_yeo@sutd.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) if you are interested to work on medical AI and software techologies in a dynamic research environment located at Nanyang Technological University (NTU) or Novena in Singapore. Several funding opportunities are available for students and postdocs.   
+##### Thank you for being so interested in MVAIT. MVAIT welcomes excellent and motivated students, postdocs, software engineers and visiting researchers who are interested in developing software and AI technologies for medicine. You should email the [Director of MVAIT](mailto:siyong.yeo@ntu.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) if you are interested to work on medical AI and software techologies in a dynamic research environment located at Nanyang Technological University (NTU) or Novena in Singapore. Several funding opportunities are available for students and postdocs.   
 
 
 
@@ -21,7 +21,7 @@ description: "Positions for students, postdocs, software engineers and visiting 
 {{< accordion "PhD Students">}}
 
 **MVAIT welcomes excellent students with a background in artificial intelligence, computer vision, software engineering, or medicine.** 
-**Potential students should email the [Director of MVAIT](mailto:siyong_yeo@sutd.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) about the position. You should explain in the email how you can contribute to the research at MVAIT, and include a list of publications or projects (description) which are relevant to the research you want to do.** 
+**Potential students should email the [Director of MVAIT](mailto:siyong.yeo@ntu.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) about the position. You should explain in the email how you can contribute to the research at MVAIT, and include a list of publications or projects (description) which are relevant to the research you want to do.** 
 
 Excellent students can consider the following funding opportunities and studentships to to do a PhD at MVAIT:
 [N PGS](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs),
@@ -47,7 +47,7 @@ Excellent students can consider the following funding opportunities and students
 
 
 **Postdocs at MVAIT should be highly motivated to contribute to the medical AI research community.** 
-**Potential postdocs should email the [Director of MVAIT](mailto:siyong_yeo@sutd.edu.sg) about the position. You should explain in the email how you can contribute to the research at MVAIT, and include a list of publications. You should give a description of 3 - 5 publications or projects which are most relevant to the research you want to do.** 
+**Potential postdocs should email the [Director of MVAIT](mailto:siyong.yeo@ntu.edu.sg) about the position. You should explain in the email how you can contribute to the research at MVAIT, and include a list of publications. You should give a description of 3 - 5 publications or projects which are most relevant to the research you want to do.** 
 - Researchers who have a strong background in AI, ML and NLP who are interested to work on biomedical projects.
 - Students trained in engineering, natural science and medicine who wants to do a postdoc on AI research at MVAIT should consider the [EWSAIS Postdoc](https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship) . You should email Director of MVAIT if you are interested in doing a EWSAIS project.    
 - Researchers from ASEAN countries who are interested to work at MVAIT can be funded by [SASEA](https://snas.org.sg/aseanfellowship)
