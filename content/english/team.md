@@ -16,7 +16,7 @@ description: "This is meta description"
 ### Director of MVAIT
 
 {{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="S. Y. Yeo" >}}
-#### Si Yong Yeo
+#### [Si Yong Yeo](mailto:siyong.yeo@ntu.edu.sg)
 ##### Assistant Professor
 ##### NTU
 
@@ -25,7 +25,7 @@ description: "This is meta description"
 ### Adjunct Faculty
 
 {{< image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT73XSm4mPKnDrEA2y6SPnVHOa-YZXS5eaEZWHmwGR&s" caption="" alt="alter-text" height="" width="135" position="left" command="fill" option="q100" title="Liu Jun" >}}
-#### Liu Jun
+#### [Liu Jun](mailto:jun_liu@sutd.edu.sg)
 ##### Assistant Professor
 ##### SUTD
 
@@ -42,16 +42,21 @@ description: "This is meta description"
 ---
 
 
-#### Doctoral Students
+#### Students
 
 {{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="K. E. Ong" >}}
-#### Kian Eng Ong 
+#### Ong Kian Eng 
 
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="" >}}
+#### Wu Qian
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="" >}} 
+#### Liu Yiling 
 
 
 ---
 
-### Clinical Collaborators
+### Clinical Partners
 
 {{< image src="https://www.nsc.com.sg/patients-and-visitors/Find-a-Doctor/PublishingImages/Dermatologist/Tey%20Hong%20Liang.jpg" caption="" alt="alter-text" height="" width="135" position="left" command="fill" option="q100" title="Hong Liang Tey" >}}
 #### Tey Hong Liang

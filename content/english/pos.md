@@ -6,7 +6,7 @@ description: "Positions for students, postdocs, software engineers and visiting 
 ---
 
 
-##### Thank you for being so interested in MVAIT. MVAIT welcomes excellent and motivated students, postdocs, software engineers and visiting researchers who are interested in developing software and AI technologies for medicine. You should email the [Director of MVAIT](mailto:siyong.yeo@ntu.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) if you are interested to work on medical AI and software techologies in a dynamic research environment located at Nanyang Technological University (NTU) or Novena in Singapore. Several funding opportunities are available for students and postdocs.   
+##### Thank you for being interested in MVAIT. MVAIT welcomes excellent and motivated students, postdocs, software engineers and visiting researchers who are interested in developing software and AI technologies for medicine. You should email the [Director of MVAIT](mailto:siyong.yeo@ntu.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) if you are interested to work on medical AI and software techologies in a dynamic research environment located at Nanyang Technological University (NTU) or Novena in Singapore. Several funding opportunities are available for students and postdocs.   
 
 
 
@@ -23,7 +23,8 @@ description: "Positions for students, postdocs, software engineers and visiting 
 **MVAIT welcomes excellent students with a background in artificial intelligence, computer vision, software engineering, or medicine.** 
 **Potential students should email the [Director of MVAIT](mailto:siyong.yeo@ntu.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) about the position. You should explain in the email how you can contribute to the research at MVAIT, and include a list of publications or projects (description) which are relevant to the research you want to do.** 
 
-Excellent students can consider the following funding opportunities and studentships to to do a PhD at MVAIT:
+Students with strong expertise in AI, computer vision and NLP will be funded to do a PhD at MVAIT. 
+Excellent students can also consider the following funding opportunities and studentships to to do a PhD at MVAIT:
 [N PGS](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs),
 [RSS](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss),
 [ACIS](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-cis-scholarship), 
