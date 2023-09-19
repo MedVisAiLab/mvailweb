@@ -16,7 +16,7 @@ description: "Medical Technology, Computer Vision and Artificial Intelligence (A
 # Features
 features:
   - title: "Construction of web going on at MVAIT"
-    image: "/images/service-1.png"
+    image: "/images/medimg1.png"
     content: "You can go to the 'Position' tab if you are keen in doing research at MVAIT. Some of the positions available at MVAIT are:"
     bulletpoints:
       - "PhD students"
@@ -30,7 +30,7 @@ features:
       link: "#"
 
   - title: "Commercial and Industry Partners"
-    image: "/images/service-2.png"
+    image: "/images/commercial.png"
     content: "MVAIT welcome sponsors and collaborators from commercial, industrial and public organizations."  
     bulletpoints:
       - "Companies who wants to sponsor a specific project"
@@ -44,7 +44,7 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Why MVAIT"
-    image: "/images/service-3.png"
+    image: "/images/md1.png"
     content: "MVAIT aims to transform healthcare in the region and globally, introducing affordable and holistic medical technologies to the society."
     
     bulletpoints:

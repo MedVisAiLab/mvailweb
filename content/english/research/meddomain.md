@@ -16,9 +16,11 @@ MVAIT has strong collaboration with clinicians from different medical domains.
 
 #### Dermatology
 Segmentation and disease classification of dermoscopic data. 
-> {{< gallery dir="pjts/meddomain/" class="" height="" width="400" webp="true" command="" option="" zoomable="true" >}}
 
 #### Cardiology
+Segmentation and classification of cardiac imaging data. Deep network analysis of multi-modal data for the inference of cardiac health states. 
 
-> Segmentation and classification of cardiac imaging data. Deep network analysis of multi-modal data for the inference of cardiac health states.  
+> {{< gallery dir="pjts/meddomain/" class="" height="" width="400" webp="true" command="" option="" zoomable="true" >}}
+
+ 
 
