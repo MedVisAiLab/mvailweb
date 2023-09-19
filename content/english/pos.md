@@ -26,7 +26,7 @@ description: "Positions for students, postdocs, software engineers and visiting 
 **Potential students should email the [Director of MVAIT](mailto:siyong.yeo@ntu.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) about the position. You should explain in the email how you can contribute to the research at MVAIT, and include a list of publications or projects (description) which are relevant to the research you want to do.** 
 
 
-{{< accordion "PhD Positions in Computer Vision and AI for Medical Imaging">}}
+{{< accordion "PhD Positions on Computer Vision and AI for Medical Imaging">}}
 3 funded PhD positions are now available at the Medical Vision and Artificial Intelligence Technologies (MVAIT) Lab at Nanyang Technological University (NTU), Singapore. 
 
 Requirements:
@@ -60,7 +60,7 @@ Start Date: Jan, May, Sep 2024
 {{< /accordion >}}
 
 
-{{< accordion "PhD Students in Multimodal AI and ML in Medicine">}}
+{{< accordion "PhD Students on Multimodal AI and ML in Medicine">}}
 <!--
 **MVAIT welcomes excellent students with a background in artificial intelligence, computer vision, software engineering, or medicine.** 
 **Potential students should email the [Director of MVAIT](mailto:siyong.yeo@ntu.edu.sg) and [Team MVAIT](mailto:medvisailab@gmail.com) about the position. You should explain in the email how you can contribute to the research at MVAIT, and include a list of publications or projects (description) which are relevant to the research you want to do.** 
@@ -139,7 +139,7 @@ Postdocs with strong expertise in Computer Vision, AI and Language models will b
 
 #### Research Assistants
 Research Assistants should have experienced in one of the areas including AI, computer vision, NLP, robotics, medical devices and software engineering.
-{{< accordion "Research Assistants in AI for Medical Data Interpretation ">}}
+{{< accordion "Research Assistants on AI for Medical Data Interpretation ">}}
   Requirements:
 - Trained in Computer Science, Computer Engineering, Electrical Engineering, or associated programs. 
 - Strong programming skills such as in Python and C++.
@@ -153,7 +153,7 @@ Research Assistants should have experienced in one of the areas including AI, co
 #### Software Engineers
 Software engineers should have experience in web or software implementation.
 
-{{< accordion "Software Engineers in Medical Data Visualization and Interpretation">}}
+{{< accordion "Software Engineers on Medical Data Visualization and Interpretation">}}
 - Software engineers should be well-versed in C, Python, Java.
 - Software engineers who are interested to collaborate with clinicians
 - Expertise including computer vision, AI, NLP and visualization is a plus. 
