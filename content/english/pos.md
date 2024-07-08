@@ -38,7 +38,7 @@ Requirements:
 - Experience in GPU and deep learning programming, i.e. PyTorch and TensorFlow.
 - Strong motivation in state-of-the-art research and publication.
 
-Start Date: Jan, May, Sep 2024  Expiration Date: 15 Dec 2023
+Start Date: Jan 2025 Expiration Date: Jun 2024
 
 
 {{< /accordion >}}
@@ -55,7 +55,7 @@ Requirements:
 - Experience in GPU and deep learning programming, i.e. PyTorch and TensorFlow.
 - Strong motivation in state-of-the-art research and publication.
 
-Start Date: Jan, May, Sep 2024
+Start Date: Jan 2025 
 
 {{< /accordion >}}
 
@@ -82,7 +82,7 @@ Excellent students can also consider the following funding opportunities and stu
 - Stduents who are experienced in the development of health technology and medical devices. 
 - Students with external funding who are interested in AI and medical projects.  
 
-Start Date: Jan, May, Sep 2024
+Start Date: Jan, May, Sep 2025
 {{< /accordion >}}
 
 

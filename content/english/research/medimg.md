@@ -17,12 +17,12 @@ draft: false
 #### Segmentation
 
 Segmentation is an important task in medical imaging, and has a wide range of uses such as tissue classification, virtual endoscopy, medical diagnosis, biomedical simulation and modeling. To segment a scan is to the partition the scan into meaningful regions.  In MVAIT, several methods have been developed for the segmentation of imaging data from different modalities, including Magnetic resonance, Ultrosound, Computed tomography, X-ray, Nuclear and Microscopy.
-> {{< gallery dir="pjts/medimg/segment" class="" height="" width="400" webp="true" command="" option="" zoomable="true" >}}
+> {{< gallery dir="pjts/medimg/segment" class="" height="400" width="400" webp="true" command="" option="" zoomable="true" >}}
 
 ---
 
 <!--
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="150" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="150" width="150" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 -->
 
 

@@ -25,9 +25,9 @@ description: "This is meta description"
 ### Adjunct Faculty
 
 {{< image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT73XSm4mPKnDrEA2y6SPnVHOa-YZXS5eaEZWHmwGR&s" caption="" alt="alter-text" height="" width="135" position="left" command="fill" option="q100" title="Liu Jun" >}}
-#### [Liu Jun](mailto:jun_liu@sutd.edu.sg)
-##### Assistant Professor
-##### SUTD
+#### [Liu Jun](mailto:j.liu81@lancaster.ac.uk)
+##### Professor
+##### Lancaster University
 
 
 {{< image src="https://cde.nus.edu.sg/bme/wp-content/uploads/sites/8/2019/02/DrLeo.jpg" caption="" alt="alter-text" height="" width="135" position="left" command="fill" option="q100" title="H. L. Leo" >}}
@@ -44,14 +44,51 @@ description: "This is meta description"
 
 #### Students
 
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="K. C." >}}
+#### Kritsanavis Chonsgrid 
+
 {{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="K. E. Ong" >}}
 #### Ong Kian Eng 
 
-{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="" >}}
-#### Wu Qian
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="Y. Chen" >}}
+#### Chen Yucheng 
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="Y. Shi" >}}
+#### Shi Yufei 
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="H. Naghshbandi" >}}
+#### Hane Naghshbandi 
 
 {{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="" >}} 
 #### Liu Yiling 
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="Y. Zhang">}}
+#### Zhang Yinglu 
+
+
+---
+
+
+#### Visiting Students
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="Y. Liu">}}
+#### Liu Yang (XJTU)
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="R. Tian">}}
+#### Ruijia Tian (Cornell University)
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="D. Yan" >}}
+#### Yan Dong (Tianjin U)
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="H.Naghshbandi">}}
+#### Harir Naghshbandi (Tabriz)
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="K. Sun">}}
+#### Sun Kaiwei (Illinois)
+
+{{< image src="/images/avatar.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" title="Z. Jiang">}}
+#### Zhenchun Jiang (Tongji)
+
 
 
 ---

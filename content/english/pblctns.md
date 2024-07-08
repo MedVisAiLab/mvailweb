@@ -13,8 +13,15 @@ description: "Publication on Computer Vision and AI for biomedical tasks and bio
 ___
 ### Construction of web going on ...
 
+- Xinliu Zhong, Leo Hwa Liang, Angela S. Koh, Si Yong Yeo, Lightweight Relational Embedding in Task-Interpolated Few-Shot Networks for Enhanced Gastrointestinal Disease Classification, IEEE Conference on Artificial Intelligence, pp. 850-855, 2024. (Honorable Mention Paper Award)
 
-- Chaotic World: A Large and Challenging Benchmark for Human Behavior Understanding in Chaotic Events, To be published in IEEE International Conference on Computer Vision, 2023
+- Jie. Jun. Wong, Glades Tan, Xinliu Zhong, Kay Woon Ho, Vincent Wei Jun Sim, Si Yong Yeo, Angela S. Koh, Artificial intelligence for modeling complex treatment decisions in aortic stenosis valve
+intervention, IEEE Conference on Artificial Intelligence, pp. 220-221, 2024.
+
+- V. W. J. Sim, G. Tan, X. Zhong, T. S.J. Chua, J. J. Wong, S. Y. Yeo, A. S. Koh, Machine and Deep Learning Based Clinical Decision Making for Coronary Artery Disease and Chatbot Tool, IEEE Conference on Artificial Intelligence, pp. 894-897, 2024.
+
+- K. E. Ong, X. L. Ng, Y Li, W. Ai, K. Zhao, S. Y. Yeo, J. Liu, Chaotic World: A Large and Challenging Benchmark for Human Behavior Understanding in Chaotic Events, IEEE International Conference on Computer Vision, 20213 - 20223, 2023
+
 - X. L. Ng, K. E. Ong, Q. Zheng, Y. Ni, S. Y. Yeo, J. Liu, Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding, IEEE Conference on Computer Vision and Pattern Recognition, 19001-19012, 2022
 
 - R. Loh, S. Y. Yeo, R. S. Tan, F. Gao, A. S. Koh, Explainable machine learning predictions to support personalized cardiology strategies. European Heart Journal - Digital Health, 3(1):49-55, 2021

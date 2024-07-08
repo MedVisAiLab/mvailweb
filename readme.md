@@ -123,7 +123,7 @@ We have added some custom scripts to make your life easier. You can use these sc
 We have added a lot of modules into this template. You can update all the modules using the following command.
 
 ```bash
-npm run update-modules
+npm
 ```
 
 ### 👉 Remove Dark Mode
